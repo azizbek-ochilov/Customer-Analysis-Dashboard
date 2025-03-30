@@ -5,3 +5,5 @@ Used Technologoies:
 - Microsoft Excel 
 - PowerBI (Dax Calculations, KPIs, Visualizations) 
 - Canva (for the design)
+
+You can interact with live dashboard here: Link
