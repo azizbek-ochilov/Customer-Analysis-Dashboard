@@ -1,7 +1,9 @@
 # Customer Analysis Dashboard
 
 This demo project is done for finding data driven solutions for the companies current trends. 
-Used Technologoies: 
+Used companies quarterly recorded data during analysis.  
+
+Used Technologies:
 - Microsoft Excel 
 - PowerBI (Dax Calculations, KPIs, Visualizations) 
 - Canva (for the design)
