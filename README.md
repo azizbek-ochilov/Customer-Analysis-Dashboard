@@ -2,8 +2,8 @@
 
 This demo project is done for finding data driven solutions for the companies current trends. 
 Used companies quarterly recorded data during analysis.  
-![image](https://github.com/user-attachments/assets/cd30db6b-0705-4d92-a482-ed2c3e1186fb)
 
+![image](https://github.com/user-attachments/assets/cd30db6b-0705-4d92-a482-ed2c3e1186fb)
 
 ### Used Technologies:
 - Microsoft Excel 
